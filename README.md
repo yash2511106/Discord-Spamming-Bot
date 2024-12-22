@@ -1,4 +1,4 @@
--------------------------------------------------------------------📢 Discord Auto-Spam Bot 🚨----------------------------------------------------------------------------
+-------------------------------------------------------------------📢 Discord Auto-Spam Bot 🚨--------------------------------------------------------
 
 Welcome to the Discord Auto-Spam Bot repository! This bot is designed to automatically send messages in a server channel, creating a spam effect for testing or fun (use responsibly).
 
